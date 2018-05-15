@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping ext="ne" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
