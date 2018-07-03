@@ -1,0 +1,28 @@
+<application>
+  <component name="AppleScriptSystemDictionaryRegistryComponent">
+    <applicationsInfo>
+      <dictionary-info applicationName="System Events">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2018.1/sdef/System_Events_generated.sdef" />
+        <option name="applicationUrl" value="/System/Library/CoreServices/System Events.app" />
+      </dictionary-info>
+      <dictionary-info applicationName="Standard Terminology">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2018.1/sdef/Standard_Terminology_generated.sdef" />
+      </dictionary-info>
+      <dictionary-info applicationName="Scripting Additions">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2018.1/sdef/Scripting_Additions_generated.sdef" />
+      </dictionary-info>
+      <dictionary-info applicationName="iTerm">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2018.1/sdef/iTerm_generated.sdef" />
+        <option name="applicationUrl" value="/Applications/iTerm.app" />
+      </dictionary-info>
+      <dictionary-info applicationName="StandardAdditions">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2018.1/sdef/StandardAdditions_generated.sdef" />
+        <option name="applicationUrl" value="/System/Library/ScriptingAdditions/StandardAdditions.osax" />
+      </dictionary-info>
+      <dictionary-info applicationName="Digital Hub Scripting">
+        <option name="dictionaryUrl" value="$USER_HOME$/Library/Caches/WebStorm2018.1/sdef/Digital_Hub_Scripting_generated.sdef" />
+        <option name="applicationUrl" value="/System/Library/ScriptingAdditions/Digital Hub Scripting.osax" />
+      </dictionary-info>
+    </applicationsInfo>
+  </component>
+</application>

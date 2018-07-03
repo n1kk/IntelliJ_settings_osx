@@ -5,6 +5,7 @@
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="ne" type="PLAIN_TEXT" />
+      <mapping ext="sdef" type="XML" />
     </extensionMap>
   </component>
 </application>
