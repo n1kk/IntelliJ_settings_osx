@@ -9,5 +9,6 @@
     <entry key="lcd.contrast.value" value="200" />
     <entry key="ide.mac.file.chooser.show.hidden.files" value="true" />
     <entry key="ide.mac.file.chooser.native" value="false" />
+    <entry key="ide.tooltip.show.with.actions" value="true" />
   </component>
 </application>
