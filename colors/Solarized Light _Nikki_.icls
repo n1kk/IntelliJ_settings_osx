@@ -3,8 +3,14 @@
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="11" />
   <option name="EDITOR_FONT_NAME" value="Inconsolata-dz for Powerline" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono for Powerline" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Hack Nerd Font" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Andale Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="0.9" />
   <colors>
