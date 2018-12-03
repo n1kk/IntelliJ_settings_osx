@@ -69,11 +69,18 @@
   </component>
   <component name="XDebuggerSettings">
     <data-views>
-      <option name="showValuesInline" value="false" />
+      <option name="valueLookupDelay" value="150" />
       <show-values-inline>false</show-values-inline>
     </data-views>
     <general />
     <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="remappedSourceLocationsMap">
+            <map />
+          </option>
+        </configuration>
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
