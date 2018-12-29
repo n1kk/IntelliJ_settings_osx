@@ -4,7 +4,7 @@
     <property name="created">2018-12-29T17:16:12</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2018-12-29T17:20:25</property>
+    <property name="modified">2018-12-29T17:44:54</property>
     <property name="originalScheme">Solarized Light (Nikki) copy1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -233,7 +233,6 @@
       <value>
         <option name="FOREGROUND" value="2aa198" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="2aa198" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -241,7 +240,6 @@
       <value>
         <option name="FOREGROUND" value="2aa198" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="2aa198" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
